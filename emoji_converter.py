@@ -1,3 +1,6 @@
+# Python3 program for converting
+# emojis.
+
 def emoji_converter(message):
     words = message.split(' ')
     emojis = {
