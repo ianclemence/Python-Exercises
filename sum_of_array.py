@@ -20,7 +20,7 @@ def _sum(arr):
 # driver function
 arr = []
 # input values to list
-arr = [12, 3, 4, 15]
+arr = [12, 5, 4, 15]
 
 # calculating length of array
 n = len(arr)
