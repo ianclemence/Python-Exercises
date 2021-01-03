@@ -1,3 +1,6 @@
+# Python3 program for a simple
+# car game.
+
 command = ""
 started = False
 while True:

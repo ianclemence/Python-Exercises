@@ -1,3 +1,6 @@
+# Python3 program for shuffling
+# cards randomly.
+
 import itertools, random
 
 # make a deck of cards

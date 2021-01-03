@@ -1,6 +1,7 @@
 # Python program to print all
 # prime number in an interval
 # number should be greater than 1
+
 start = 0
 end = 100
 

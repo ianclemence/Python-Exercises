@@ -1,3 +1,6 @@
+# Python3 program to find simple
+# interest for given values.
+
 def function():
     principle = float(input("What is the principle? "))
     rate = float(input("What is the rate(%)? "))

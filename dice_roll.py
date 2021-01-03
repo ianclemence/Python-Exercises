@@ -1,3 +1,6 @@
+# Python3 program for rolling two
+# dices randomly.
+
 import random
 min = 1
 max = 6
